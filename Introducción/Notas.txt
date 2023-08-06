@@ -1,0 +1,38 @@
+---- Notas ----
+Para crear "Busquedas guardadas" usar: Informes -> Busquedas guardadas -> Todas las busquedas guardadas -> Nuevo
+
+---- Clase01 - Welcome ----
+
+---- Clase02 - Using Standard Reports ----
+
+---- Clase03 - Customizing Standars Reports ----
+Informe guardado: JEL | SA_RaS | 03a Customer Credit Limits
+Informe guardado: JEL | SA_RaS | 03b Deposits Report
+Informe guardado: JEL | SA_RaS | 03c Purchase by Vendor This vs Last
+Informe guardado: JEL | SA_RaS | 03d Purchase by Item Matriz
+
+---- Clase04 - Creating New Reports ----
+
+---- Clase05 - Setting Up Standard KPIs ----
+
+---- Clase06 - Creating Saved Searches ----
+Busqueda guardada: JEL | SA_RaS | 06 First Trans Search
+
+---- Clase07 - Publishing Saved Searches ----
+
+---- Clase08 - Adding In-Depth Analysis ----
+Busqueda guardada: JEL | SA_RaS | 08 Parens Demo
+
+---- Clase09 - Applying Advanced Formatting and Calculations ----
+Busqueda guardada: JEL | SA_RaS | 09 Items with Gross Profit
+
+---- Clase10 - Presenting Custom Metrics ----
+Busqueda guardada: JEL | SA_RaS | 10 KPI: BIOMONT
+
+---- Clase11 - Setting Up Trend Graphs and Scorecards ----
+
+---- Clase12 - Realizing Smart Dashboard ----
+
+---- Clase13 - Wrap Up ----
+Certificación NetSuite: http://www.netsuite.com/portal/services/training/certification.shtml
+Certificación NetSuite: https://www.netsuite.com/portal/services/training/suite-training/netsuite-certification.shtml
